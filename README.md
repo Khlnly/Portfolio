@@ -1,2 +1,2 @@
 # portfolio
-It's not pushing. I'm not sure why..
+It's not pushing. Not sure why..
